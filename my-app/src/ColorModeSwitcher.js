@@ -16,6 +16,7 @@ import { FaMoon, FaSun } from 'react-icons/fa';
       pos={'fixed'}
       top={'4'}
       right={'4'}
+      zIndex={'overlay'}
       color="current"
       marginLeft="2"
       onClick={toggleColorMode}
